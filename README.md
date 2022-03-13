@@ -1,10 +1,12 @@
 # Diamonds-Python-
 Diamond prediction model.
 
-#Introduction
+#Introduction:
+
 Diamonds have been consider a visual appealing fashionable statement for more than 500 years. We have been hired by a diamond wholesaler to better understand the diamond markert , identfy trends and build a model that can predict diamond prices for the next year.
 
 #Datasets Description:
+
 To provide this in-dept analysis we have been given a data set containing sales information from 2010 to 2021.
 
 The dataset contains 11 attributes:
