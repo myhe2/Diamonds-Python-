@@ -1,5 +1,6 @@
 # Diamonds-Python-
-Diamond prediction model.
+Team Data4Life's Diamond prediction model. Python version.
+Team members: Nehemie Joseph, Jordan  Clark, Dianan  Herdandez , Duamell Gomez and Ayo Abioye
 
 #Introduction:
 
